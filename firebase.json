@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "conception-et-travaux-en-b-tim",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

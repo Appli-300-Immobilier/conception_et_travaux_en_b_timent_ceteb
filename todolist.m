@@ -1,17 +1,17 @@
-# To-Do List for Conception Et Travaux En B�timent-CETEB Website
+# To-Do List for Conception Et Travaux En Bétiment-CETEB Website
 
 ## Project Overview
-- **Company Name:** Conception Et Travaux En B�timent-CETEB
+- **Company Name:** Conception Et Travaux En Bétiment-CETEB
 - **Directory:** conception_et_travaux_en_b_timent_ceteb
 - **Address/Contact:** 
   - Toujours ouvert
   - 
-  - Abidjan, C�te d'Ivoire
+  - Abidjan, Céte d'Ivoire
   - 
-  - Abidjan, C�te d'Ivoire
-  - Coordonn�es
+  - Abidjan, Céte d'Ivoire
+  - Coordonnées
   - 
-  - Conception Et Travaux En B�timent-CETEB
+  - Conception Et Travaux En Bétiment-CETEB
 - **Description:** https://www.facebook.com/CETEB2019
 - **Social Media:** 
 - **Logo Asset:** _To be sourced/created_
@@ -28,7 +28,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: conception-et-travaux-en-b-timent-ceteb  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Conception Et Travaux En B�timent-CETEB  - Meta description: https://www.facebook.com/CETEB2019...
+  - Title: Conception Et Travaux En Bétiment-CETEB  - Meta description: https://www.facebook.com/CETEB2019...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -44,7 +44,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Conception Et Travaux En B�timent-CETEB".
+  - Replace the hero title with "Conception Et Travaux En Bétiment-CETEB".
   - Update the subtitle with: "https://www.facebook.com/CETEB2019".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):

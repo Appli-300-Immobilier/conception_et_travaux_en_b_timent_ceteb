@@ -54,7 +54,7 @@ const Quote = () => {
             <p className="text-sm text-secondary">Date : {new Date().toLocaleDateString('fr-FR')}</p>
           </div>
           <div className="text-right">
-            <h2 className="text-xl font-bold">Conception Et Travaux En B�timent-CETEB</h2>
+            <h2 className="text-xl font-bold">Conception Et Travaux En Bétiment-CETEB</h2>
             <p className="text-sm text-secondary">Abidjan, Côte d'Ivoire</p>
             <p className="text-sm text-secondary">contact@conceptionettravauxenbtimentceteb.cm</p>
             <p className="text-sm text-secondary">+237 6XX XX XX XX</p>
@@ -118,7 +118,7 @@ const Quote = () => {
 
         {/* Footer */}
         <div className="mt-20 text-[10px] text-secondary text-center space-y-1">
-          <p>Conception Et Travaux En B�timent-CETEB - RCCM : CI-ABJ-03-202X-B-XXXXX - NID : XXXXXXXXXX</p>
+          <p>Conception Et Travaux En Bétiment-CETEB - RCCM : CI-ABJ-03-202X-B-XXXXX - NID : XXXXXXXXXX</p>
           <p>Validité de l'offre : 15 jours à compter de la date d'émission.</p>
         </div>
       </div>
